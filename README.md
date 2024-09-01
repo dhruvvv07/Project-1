@@ -18,4 +18,4 @@ This tool is ideal for students, educators, or anyone needing to keep track of a
 - **Add Grades**: Input grades for multiple subjects or assignments.
 - **View Average Grade**: Calculate and view the average grade based on the entered scores.
 - **View Letter Grade**: Get the letter grade (A, B, C, D, F) corresponding to the average grade.
-- **View GPA**: Calculate and display the GPA based on the average grade (assumed scale of 0 to 5).
+- **View GPA**: Calculate and display the GPA based on the average grade.
