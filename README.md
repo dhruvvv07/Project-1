@@ -1,5 +1,6 @@
 # Project-1
-**Student Grade Tracker
+**Student Grade Tracker**
+
 Project Description
 Student Grade Tracker is a Java-based console application designed to help users manage and track student grades effectively. The program allows users to:
 
