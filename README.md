@@ -1,6 +1,8 @@
 # Student Grade Tracker
 This project was developed by **Dhruv Gupta**.
 
+Contact: @dhruvgupta3035@gmail.com
+
 ## Project Description
 
 **Student Grade Tracker** is a Java-based console application designed to help users manage and track student grades effectively. The program allows users to:
